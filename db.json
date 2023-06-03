@@ -4,13 +4,14 @@
        "username":"Disha",
        "userAvatar":"https://img.freepik.com/free-psd/3d-illustration-person-with-pink-hat_23-2149436195.jpg?size=626&ext=jpg&ga=GA1.1.1848885240.1685772508&semt=sph",
        "email":"disha@gmail.com",
-       "password":"disha"
+       "password":"disha",
+       "id":1
       }
       
       
     ],
     "forum":[
-      {
+      { "id":1,
         "userAvatar": "https://img.freepik.com/free-psd/3d-illustration-person-with-pink-hat_23-2149436195.jpg?size=626&ext=jpg&ga=GA1.1.1848885240.1685772508&semt=sph",
         "username": "Disha",
         "questionTitle": "How to sort an array in JavaScript?",
