@@ -1,44 +1,31 @@
 {
     "users": [
       {
-       "username":"Disha",
-       "userAvatar":"https://img.freepik.com/free-psd/3d-illustration-person-with-pink-hat_23-2149436195.jpg?size=626&ext=jpg&ga=GA1.1.1848885240.1685772508&semt=sph",
-       "email":"disha@gmail.com",
-       "password":"disha",
-       "id":1
+          "id":1,
+          "fullname":"Disha Gupta",
+          "email":"disha@gmail.com",
+          "password":"disha",
+          "tracker":[
+              "type":"Income",
+              "category":"gifts",
+              "amount":"250",
+              "date":"2017-06-01"
+          ],
+      },{
+           "id":2,
+          "fullname":"Disha Gupta",
+          "email":"disha2@gmail.com",
+          "password":"disha",
+          "tracker":[
+              "type":"Income",
+              "category":"gifts",
+              "amount":"250",
+              "date":"2017-06-01"
+          ],
+          
       }
       
       
-    ],
-    "forum":[
-      { "id":1,
-        "userAvatar": "https://img.freepik.com/free-psd/3d-illustration-person-with-pink-hat_23-2149436195.jpg?size=626&ext=jpg&ga=GA1.1.1848885240.1685772508&semt=sph",
-        "username": "Disha",
-        "questionTitle": "How to sort an array in JavaScript?",
-        "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
-        "language": "JavaScript",
-        "upvotes": 10,
-        "answers": [
-          {
-            "userAvatar": "user_avatar2.png",
-            "username": "JaneSmith456",
-            "answerText": "To sort an array in JavaScript, you can use the built-in 'sort' method...",
-            "postedDate": "2023-05-31"
-          },
-          {
-            "userAvatar": "user_avatar3.png",
-            "username": "SamJohnson789",
-            "answerText": "Another approach to sorting an array in JavaScript is by using a custom comparison function...",
-            "postedDate": "2023-06-01"
-          },
-          {
-            "userAvatar": "user_avatar4.png",
-            "username": "EmilyBrownXYZ",
-            "answerText": "I recommend using a popular JavaScript library such as 'Lodash' for sorting arrays...",
-            "postedDate": "2023-06-01"
-          }
-        ],
-        "postedDate": "2023-05-30"
-      }
     ]
+ 
    }
