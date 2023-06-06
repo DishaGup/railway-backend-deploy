@@ -6,23 +6,12 @@
           "email":"disha@gmail.com",
           "password":"disha",
           "tracker":[
-              "type":"Income",
+              {"type":"Income",
               "category":"gifts",
               "amount":"250",
               "date":"2017-06-01"
-          ],
-      },{
-           "id":2,
-          "fullname":"Disha Gupta",
-          "email":"disha2@gmail.com",
-          "password":"disha",
-          "tracker":[
-              "type":"Income",
-              "category":"gifts",
-              "amount":"250",
-              "date":"2017-06-01"
-          ],
-          
+                }        
+            ]
       }
       
       
